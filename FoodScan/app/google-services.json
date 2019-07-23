@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "16247813400",
+    "firebase_url": "https://viseo-test.firebaseio.com",
+    "project_id": "viseo-test",
+    "storage_bucket": "viseo-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16247813400:android:97eff33fc2ab43ae",
+        "android_client_info": {
+          "package_name": "com.example.foodscan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16247813400-ptjh488ve4vu8gqg7r4467vok5dcv03s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9pzabP3WeEoVcJYtbzqck8krUcacCpp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16247813400-ptjh488ve4vu8gqg7r4467vok5dcv03s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
